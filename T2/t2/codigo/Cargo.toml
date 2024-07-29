@@ -1,0 +1,37 @@
+[package]
+name = "t1"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+[lib]
+name = "graph_lib"
+path = "src/lib/lib.rs"
+
+[[bin]] # Trabalho 1
+name = "t1"
+path = "src/t1.rs"
+
+[[bin]] # Trabalho 1
+name = "t2"
+path = "src/t2.rs"
+
+[[bin]] # config q2
+name = "q2"
+path = "src/q2.rs"
+
+[[bin]] # config q3
+name = "q3"
+path = "src/q3.rs"
+
+[[bin]] # config q4
+name = "q4"
+path = "src/q4.rs"
+
+[[bin]] # config q5
+name = "q5"
+path = "src/q5.rs"

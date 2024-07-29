@@ -1,0 +1,1 @@
+/home/ritinha/Documents/faculdade/S4/grafos/trabalho\ 1/t1/codigo/target/debug/q4: /home/ritinha/Documents/faculdade/S4/grafos/trabalho\ 1/t1/codigo/src/bellman_ford.rs /home/ritinha/Documents/faculdade/S4/grafos/trabalho\ 1/t1/codigo/src/graph.rs /home/ritinha/Documents/faculdade/S4/grafos/trabalho\ 1/t1/codigo/src/q4.rs

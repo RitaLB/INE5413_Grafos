@@ -1,0 +1,1 @@
+/home/ritinha/Documents/faculdade/S4/grafos/t1/target/debug/t1: /home/ritinha/Documents/faculdade/S4/grafos/t1/src/algoritmos.rs /home/ritinha/Documents/faculdade/S4/grafos/t1/src/graph.rs /home/ritinha/Documents/faculdade/S4/grafos/t1/src/main.rs
